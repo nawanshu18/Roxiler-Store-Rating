@@ -73,9 +73,14 @@ RateHub provides role-based access for **System Administrators, Normal Users, an
 git clone https://github.com/nawanshu18/Roxiler-Store-Rating.git
 cd Roxiler-Store-Rating
 
-##🔗 Repository
+🔗 Repository
 https://github.com/nawanshu18/Roxiler-Store-Rating
 
+👨‍💻 Developer
+
+Nawanshu Lahane
+
+React.js | Node.js | Express.js | PostgreSQL
 
 
 
